@@ -1,29 +1,42 @@
-Portfolio Website
+# Dea Hindara - Junior Web Developer
 
-Welcome to my portfolio! Here, you can explore the various projects I've worked on, as well as learn more about my experience and skills as a Web Developer.
+Hello, I'm Dea Hindara, a passionate junior web developer who specializes in HTML, CSS, JavaScript, PHP, and MySQL. I love building interactive, user-friendly websites and am always looking for opportunities to improve my skills.
 
-📜 Description
+---
 
-I am a Junior Web Developer with expertise in HTML, CSS, JavaScript, and PHP. This portfolio serves as a showcase of my ability to create responsive and functional web applications. It includes some of the projects I've worked on, along with a brief overview of my experience.
+## About Me
 
-🛠 Features
+Hi, I’m a web developer with a passion for creating interactive and user-friendly websites. I specialize in HTML, CSS, JavaScript, and PHP. I love learning new technologies and am always looking for opportunities to improve my skills.
 
-Responsive Design: This portfolio is fully responsive and can be easily viewed on desktop, tablet, and mobile devices.
+---
 
-Live Project Demos: Each project includes a live demo that you can interact with, embedded directly into the portfolio.
+## My Projects
 
-Interactivity: Features hover effects and smooth scroll animations to enhance user experience.
+### 1. Portfolio Website
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Description:** This is my personal portfolio website where I showcase my skills, projects, and experiences as a web developer.
 
-Contact Information: It’s easy to get in touch with me through email or social media.
+### 2. Conversion data .SHP (SmarPTSL App) to .SCR (AutoCAD)
+- **Technologies Used:** PHP, JavaScript, HTML, CSS
+- **Description:** This project involves a tool for converting data from the .SHP file format (used in SmarPTSL) to .SCR files for use in AutoCAD.
+- **Status:** Smartdwg
 
-🔧 Technologies Used
+---
 
-HTML5: Core structure of the website
+## Contact Me
 
-CSS3: Styling and responsive layout
+- **Email:** hindara.dea20@gmail.com
+- **GitHub:** [github.com/aradea-dev](https://github.com/aradea-dev)
 
-JavaScript: Interactivity (smooth scroll, hover effects)
+---
 
-PHP: Backend for certain projects (optional)
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-GitHub Pages/Netlify/Heroku: Platforms used to deploy the portfolio
+---
+
+Feel free to explore the projects above and connect with me if you have any questions or want to collaborate. I'm excited to learn and grow as a developer!
